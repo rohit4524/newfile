@@ -1,0 +1,82 @@
+*{box-sizing: border-box}
+*{
+    background-color: black;
+}
+h1{
+    color: rgba(139, 47, 47, 0.98);
+    font-size: 60px;
+    font-style: normal;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-left-style: dashed;
+    border-right-style: dashed;
+}
+h2{
+    color: grey;
+    font-size: 40px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-left-style: dashed;
+    border-right-style: dashed;
+}
+h3{
+    color: red;
+    font font-size: 30px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-style:groove;
+    border-top-width: thick;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-bottom-width: thick; 
+
+}
+.alpha-text{
+    color: #551A8B;
+    font-size: 20px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-style:groove;
+    border-top-width: thick;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-bottom-width: thick;
+
+}
+.beta-text{
+    color: lightseagreen;
+    font-size: 20px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-style:groove;
+    border-top-width: thick;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-bottom-width: thick;
+    background-color: black;
+}
+.gamma-text{
+    color: lightseagreen;
+    font-size: 20px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-style:groove;
+    border-top-width: thick;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-bottom-width: thick;
+}
